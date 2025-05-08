@@ -1,0 +1,99 @@
+Action,Condition
+Delay Flight,bad weather
+Delay Flight,crew unavailable
+Delay Flight,technical issue
+Delay Flight,runway congestion
+Advance Departure,early clearance
+Advance Departure,crew available
+Advance Departure,good weather
+Advance Departure,low air traffic
+Reschedule Cargo,overweight cargo
+Reschedule Cargo,delayed connecting flight
+Reschedule Cargo,customs issue
+Hold for Clearance,customs issue
+Hold for Clearance,documentation pending
+Hold for Clearance,runway congestion
+Proceed as Scheduled,all clear
+Proceed as Scheduled,on-time crew
+Proceed as Scheduled,cargo loaded
+Proceed as Scheduled,weather clear
+Proceed as Scheduled,delayed connecting flight
+Delay Flight,cargo loaded
+Advance Departure,documentation pending
+Delay Flight,on-time crew
+Proceed as Scheduled,customs issue
+Advance Departure,crew available
+Proceed as Scheduled,runway congestion
+Reschedule Cargo,weather clear
+Advance Departure,all clear
+Delay Flight,customs issue
+Hold for Clearance,documentation pending
+Advance Departure,customs issue
+Hold for Clearance,low air traffic
+Hold for Clearance,low air traffic
+Proceed as Scheduled,weather clear
+Hold for Clearance,customs issue
+Advance Departure,delayed connecting flight
+Hold for Clearance,delayed connecting flight
+Reschedule Cargo,documentation pending
+Hold for Clearance,on-time crew
+Reschedule Cargo,crew unavailable
+Proceed as Scheduled,crew unavailable
+Proceed as Scheduled,documentation pending
+Hold for Clearance,weather clear
+Hold for Clearance,technical issue
+Proceed as Scheduled,low air traffic
+Delay Flight,early clearance
+Proceed as Scheduled,weather clear
+Reschedule Cargo,low air traffic
+Hold for Clearance,overweight cargo
+Hold for Clearance,runway congestion
+Delay Flight,low air traffic
+Delay Flight,customs issue
+Proceed as Scheduled,overweight cargo
+Advance Departure,delayed connecting flight
+Advance Departure,low air traffic
+Reschedule Cargo,customs issue
+Reschedule Cargo,crew available
+Delay Flight,delayed connecting flight
+Reschedule Cargo,runway congestion
+Hold for Clearance,weather clear
+Reschedule Cargo,early clearance
+Proceed as Scheduled,customs issue
+Delay Flight,delayed connecting flight
+Advance Departure,crew available
+Advance Departure,weather clear
+Proceed as Scheduled,all clear
+Delay Flight,delayed connecting flight
+Advance Departure,on-time crew
+Reschedule Cargo,customs issue
+Reschedule Cargo,runway congestion
+Hold for Clearance,crew unavailable
+Reschedule Cargo,runway congestion
+Proceed as Scheduled,early clearance
+Proceed as Scheduled,delayed connecting flight
+Hold for Clearance,customs issue
+Delay Flight,weather clear
+Advance Departure,crew unavailable
+Hold for Clearance,bad weather
+Delay Flight,delayed connecting flight
+Delay Flight,low air traffic
+Delay Flight,crew available
+Delay Flight,all clear
+Reschedule Cargo,crew available
+Reschedule Cargo,early clearance
+Delay Flight,good weather
+Advance Departure,crew available
+Reschedule Cargo,cargo loaded
+Reschedule Cargo,weather clear
+Reschedule Cargo,early clearance
+Delay Flight,on-time crew
+Hold for Clearance,crew unavailable
+Delay Flight,good weather
+Proceed as Scheduled,crew available
+Delay Flight,runway congestion
+Hold for Clearance,bad weather
+Reschedule Cargo,weather clear
+Hold for Clearance,weather clear
+Advance Departure,good weather
+Hold for Clearance,customs issue

@@ -1,0 +1,1 @@
+# prim or krushkal or dijkstra
